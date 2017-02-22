@@ -75,7 +75,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="assets\css\footer.css" />
     <Content Include="assets\css\slider.css" />
     <Content Include="assets\css\style.css" />
     <Content Include="assets\images\Dona at MS IGNITE AUS.jpg" />
