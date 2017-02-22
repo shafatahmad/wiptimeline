@@ -79,7 +79,7 @@
     <Content Include="assets\css\style.css" />
     <Content Include="assets\images\Dona at MS IGNITE AUS.jpg" />
     <Content Include="assets\images\parallax-wallpaper-13.jpg" />
-    <Content Include="default.html" />
+    <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
